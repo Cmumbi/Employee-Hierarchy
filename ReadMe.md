@@ -13,10 +13,7 @@ the first employee.
 - Add an instance method that returns the salary budget from the specified manager. The salary budget
 from a manager is defined as the sum of the salaries of all the employees reporting (directly or indirectly) to a specified manager, plus the salary of the manager
 
-b.	Add an instance method that returns the salary budget from the specified manager. The salary budget from a manager is defined as the sum of the salaries of all the employees reporting (directly or indirectly) to a specified manager, plus the salary of the manager. See the example below. 
- 
-Input type: String 
-Return type: long 
+b.	Add an instance method that returns the salary budget from the specified manager. The salary budget from a manager is defined as the sum of the salaries of all the employees reporting (directly or indirectly) to a specified manager, plus the salary of the manager. 
 
 
 
